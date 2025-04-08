@@ -53,16 +53,16 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Osva1/Osva1/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Osva1/count.svg?"  />
+</div>
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Osva<3">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6t60pldkw15s4z3wdm6lt5xii&count={count}" alt="Spotify recently played"  />
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Osva1/Osva1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Osva1/Osva1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Osva1/Osva1/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
