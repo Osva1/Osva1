@@ -198,7 +198,7 @@ A minimalist, developer-focused note-taking environment designed for high effici
 ## ✦ Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Osva1/Osva1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Osva1/Osva1/output/github-snake-dark.svg?palette=github-dark" alt="Snake animation" />
 </div>
 
 ---
