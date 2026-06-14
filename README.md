@@ -7,30 +7,31 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Education-ENG.%20Software%20Development-9D4EDD?style=for-the-badge&logo=academiccap&logoColor=white" alt="Education" />[cite: 1]
-  <img src="https://img.shields.io/badge/Location-Aguascalientes,%20Mexico-7B2CBF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />[cite: 1]
+  <img src="https://img.shields.io/badge/Education-ENG.%20Software%20Development-9D4EDD?style=for-the-badge&logo=academiccap&logoColor=white" alt="Education" />
+  <img src="https://img.shields.io/badge/Location-Aguascalientes,%20Mexico-7B2CBF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </div>
 <br>
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-5A189A?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-3C096C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:osvelcholo17@gmail.com"><img src="https://img.shields.io/badge/Email-osvelcholo17@gmail.com-240046?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>[cite: 1]
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-Follow_Me-10002B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:osvelcholo17@gmail.com"><img src="https://img.shields.io/badge/Email-Osva1@gmail.com-240046?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="#"><img sr
+                c="https://img.shields.io/badge/GitHub-Follow_Me-10002B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=osvelcholo17&style=for-the-badge&color=9D4EDD&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/osvelcholo17?style=for-the-badge&color=7B2CBF&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/osvelcholo17?style=for-the-badge&color=5A189A&label=STARS" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Osva1&style=for-the-badge&color=9D4EDD&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Osva1?style=for-the-badge&color=7B2CBF&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Osva1?style=for-the-badge&color=5A189A&label=STARS" alt="Stars" />
 </div>
 
 ---
 
 ## ✦ About
 
-I am a Software Developer focused on modern web technologies and open-source environments[cite: 1]. With a robust foundation in multiplatform software development and system architecture, I specialize in building highly scalable, secure, and user-centric applications. My engineering philosophy revolves around a strong product mindset, ensuring that underlying codebases align seamlessly with strategic business objectives.
+I am a Software Developer focused on modern web technologies and open-source environments. With a robust foundation in multiplatform software development and system architecture, I specialize in building highly scalable, secure, and user-centric applications. My engineering philosophy revolves around a strong product mindset, ensuring that underlying codebases align seamlessly with strategic business objectives.
 
 I actively integrate robust backend architectures with refined front-end interfaces, heavily relying on CI/CD principles and system customization (Linux, Arch, Pop!_OS) to optimize deployment pipelines and software efficiency. As an advocate for high-fidelity technical design, I am continuously expanding my capabilities within AI/ML paradigms to integrate predictive analytics and intelligent automation into enterprise-grade web solutions.
 
@@ -46,7 +47,7 @@ I actively integrate robust backend architectures with refined front-end interfa
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,cpp,html,css" />
-  </a>[cite: 1]
+  </a>
 </div>
 <br>
 
@@ -54,7 +55,7 @@ I actively integrate robust backend architectures with refined front-end interfa
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,astro,tailwind,figma" />
-  </a>[cite: 1]
+  </a>
 </div>
 <br>
 
@@ -62,7 +63,7 @@ I actively integrate robust backend architectures with refined front-end interfa
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql" />
-  </a>[cite: 1]
+  </a>
 </div>
 <br>
 
@@ -70,7 +71,7 @@ I actively integrate robust backend architectures with refined front-end interfa
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,aws,git,github,vscode,bash" />
-  </a>[cite: 1]
+  </a>
 </div>
 
 ---
@@ -80,7 +81,7 @@ I actively integrate robust backend architectures with refined front-end interfa
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
 | **Predictive Analytics** | Intermediate | Utilizing Python ecosystems for data parsing and predictive model integration within web services. |
-| **Data Architecture** | Advanced | Structuring NoSQL (MongoDB) and relational (MySQL) datasets for high-throughput machine learning pipelines.[cite: 1] |
+| **Data Architecture** | Advanced | Structuring NoSQL (MongoDB) and relational (MySQL) datasets for high-throughput machine learning pipelines. |
 | **Automation & Scraping** | Advanced | Developing intelligent bots and automated workflows for data aggregation and system optimization. |
 
 ---
@@ -115,17 +116,17 @@ A minimalist, developer-focused note-taking environment designed for high effici
 
 ## ✦ Experience
 
-**Web Portal Intern** | **Instituto de Educación de Aguascalientes**[cite: 1]
-*Sep 2025 - Dec 2025*[cite: 1]
-* Led the modernization of institutional web portals, transitioning legacy codebases to modern architectures.[cite: 1]
-* Engineered robust API integrations utilizing Axios methods to ensure synchronous and secure data flow across administrative dashboards.[cite: 1]
+**Web Portal Intern** | **Instituto de Educación de Aguascalientes**
+*Sep 2025 - Dec 2025*
+* Led the modernization of institutional web portals, transitioning legacy codebases to modern architectures.
+* Engineered robust API integrations utilizing Axios methods to ensure synchronous and secure data flow across administrative dashboards.
 * Structured components for maximum reusability and optimized DOM rendering.
 * `Web Development` `API Integration` `Axios` `JavaScript`
 
-**Ambassador and Customer Service** | **Microsoft**[cite: 1]
-*Jan 2022 - Aug 2023*[cite: 1]
-* Guided Xbox platform customers through sophisticated onboarding processes, ensuring seamless initiation into the ecosystem.[cite: 1]
-* Conducted rigorous testing protocols on various applications, functions, and games within the Microsoft environment, identifying edge cases and logging critical bug reports.[cite: 1]
+**Ambassador and Customer Service** | **Microsoft**
+*Jan 2022 - Aug 2023*
+* Guided Xbox platform customers through sophisticated onboarding processes, ensuring seamless initiation into the ecosystem.
+* Conducted rigorous testing protocols on various applications, functions, and games within the Microsoft environment, identifying edge cases and logging critical bug reports.
 * `Customer Service` `Quality Assurance` `Microsoft Ecosystem` `Troubleshooting`
 
 ---
@@ -134,8 +135,8 @@ A minimalist, developer-focused note-taking environment designed for high effici
 
 | Recognition | Details |
 | :---: | :--- |
-| 🎓 **Degree Completion** | Successfully finalized final degree presentation for Assoc. Deg. Multiplatform Software (TSU) at Universidad Tecnológica El Retoño.[cite: 1] |
-| 🌐 **Advanced English** | Achieved Advanced English proficiency credential through APTIS.[cite: 1] |
+| 🎓 **Degree Completion** | Successfully finalized final degree presentation for Assoc. Deg. Multiplatform Software (TSU) at Universidad Tecnológica El Retoño. |
+| 🌐 **Advanced English** | Achieved Advanced English proficiency credential through APTIS. |
 | 🔐 **Cloud Infrastructure** | Deployed scalable network infrastructure on AWS Academy, successfully configuring secure EC2 instances. |
 
 ---
@@ -143,10 +144,10 @@ A minimalist, developer-focused note-taking environment designed for high effici
 ## ✦ Certifications
 
 **Methodology & Professional Skills**
-<img src="https://img.shields.io/badge/Certification-White_Belt-9D4EDD?style=for-the-badge" alt="White Belt" />[cite: 1]
+<img src="https://img.shields.io/badge/Certification-White_Belt-9D4EDD?style=for-the-badge" alt="White Belt" />
 
 **Language Proficiency**
-<img src="https://img.shields.io/badge/Certification-APTIS_Advanced_English-7B2CBF?style=for-the-badge" alt="APTIS" />[cite: 1]
+<img src="https://img.shields.io/badge/Certification-APTIS_Advanced_English-7B2CBF?style=for-the-badge" alt="APTIS" />
 
 **Cloud & Infrastructure (AWS / Cisco focus)**
 <img src="https://img.shields.io/badge/AWS-Academy_Cloud_Foundations-5A189A?style=for-the-badge&logo=amazonaws" alt="AWS" />
@@ -168,11 +169,11 @@ A minimalist, developer-focused note-taking environment designed for high effici
 ## ✦ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osvelcholo17&show_icons=true&theme=radical&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF&border_color=3C096C" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Osva1&show_icons=true&theme=radical&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF&border_color=3C096C" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osvelcholo17&theme=radical&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakNum=E0AAFF&sideNums=E0AAFF&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=C77DFF&border=3C096C" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Osva1&theme=radical&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakNum=E0AAFF&sideNums=E0AAFF&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=C77DFF&border=3C096C" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvelcholo17&layout=compact&theme=radical&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF&border_color=3C096C" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osva1&layout=compact&theme=radical&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF&border_color=3C096C" alt="Top Languages" />
 </div>
 
 ---
@@ -181,7 +182,7 @@ A minimalist, developer-focused note-taking environment designed for high effici
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=osvelcholo17&theme=discord&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Osva1&theme=discord&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -190,7 +191,7 @@ A minimalist, developer-focused note-taking environment designed for high effici
 ## ✦ Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osvelcholo17&bg_color=0D1117&color=9D4EDD&line=C77DFF&point=E0AAFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Osva1&bg_color=0D1117&color=9D4EDD&line=C77DFF&point=E0AAFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -198,7 +199,7 @@ A minimalist, developer-focused note-taking environment designed for high effici
 ## ✦ Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/osvelcholo17/osvelcholo17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Osva1/Osva1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
