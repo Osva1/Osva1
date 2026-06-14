@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Education-ENG.%20Software%20Development-9D4EDD?style=for-the-badge&logo=academiccap&logoColor=white" alt="Education" />
+  <a href="utr.edu.mx"><img src="https://img.shields.io/badge/Education-ENG.%20Software%20Development-9D4EDD?style=for-the-badge&logo=academiccap&logoColor=white" alt="Education" /> </a>
   <img src="https://img.shields.io/badge/Location-Aguascalientes,%20Mexico-7B2CBF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </div>
 <br>
