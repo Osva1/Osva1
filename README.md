@@ -35,7 +35,7 @@ I am a Software Developer focused on modern web technologies and open-source env
 I actively integrate robust backend architectures with refined front-end interfaces, heavily relying on CI/CD principles and system customization (Linux, Arch, Pop!_OS) to optimize deployment pipelines and software efficiency. As an advocate for high-fidelity technical design, I am continuously expanding my capabilities within AI/ML paradigms to integrate predictive analytics and intelligent automation into enterprise-grade web solutions.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Open_To-Web_Developer_Roles_|_Houston_TX-9D4EDD?style=for-the-badge" alt="Open To" />
+  <img src="https://img.shields.io/badge/Open_To-Web_Developer_Roles-9D4EDD?style=for-the-badge" alt="Open To" />
 </div>
 
 ---
@@ -219,4 +219,4 @@ Current_Status:
     - High-fidelity backend design patterns
   Open_To:
     - Full Stack Web Developer Roles
-    - International Opportunities (Houston, TX)
+    - International Opportunities
