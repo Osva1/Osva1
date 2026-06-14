@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-5A189A?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
-  <a href="www.linkedin.com/in/osvaldo-pérez-39337a310"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-3C096C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/osvaldo-perez01/"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-3C096C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:osvelcholo17@gmail.com"><img src="https://img.shields.io/badge/Email-osvelcholo17@gmail.com-240046?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-Follow_Me-10002B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
