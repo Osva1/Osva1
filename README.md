@@ -177,32 +177,10 @@ A minimalist, developer-focused note-taking environment designed for high effici
 
 ---
 
-## ✦ GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Osva1&theme=discord&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
 ## ✦ Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Osva1&bg_color=0D1117&color=9D4EDD&line=C77DFF&point=E0AAFF&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## ✦ Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Osva1/Osva1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Osva1/Osva1/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Osva1/Osva1/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---
